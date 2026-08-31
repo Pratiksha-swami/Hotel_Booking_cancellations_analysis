@@ -44,21 +44,15 @@ Hotel-Booking-Cancellation-Analysis/
 ├── Hotel_Booking_Cancellation_Analysis.pbix
 │   └── Power BI dashboard
 │
-├── Hotel_Booking_Cancellation_Analysis.pdf
-│   └── PDF version of the dashboard
+├── dashboard_hotel_booking.png
+│   └── image version of the dashboard
 │
 ├── dataset/
 │   └── hotel_booking.csv
 │
-├── images/
-│   └── dashboard_preview.png
-│
 └── README.md
 ```
 
-> **Note:** Update the filenames above if your actual uploaded files have different names.
-
----
 
 ## 📊 Key Performance Indicators
 
